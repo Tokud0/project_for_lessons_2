@@ -1,0 +1,18 @@
+name,weapon_type,price,shoting_penetretion,cadence_shooting,shooting_on_run,velocity_to_equip,dispersion_bullet,dispersion_bullet_scope,velocity_recharge,bullets_on_charging,HDMR,BDMR,LDMR,HDLR,BDLR,LDLR,if_secundary_mode,desc_secundary_mode,resource
+CLASSIC,secondary_weapon,500,low,"6,75","5,73","0,75","0,4","0,4","1,75",12,78,66,26,22,22,18,TRUE,scope,shotgun
+SHORTY,secondary_weapon,150,low,"3,33","5,4","0,75",4,"1,75","1,75",2,24,12,10,16,8,6,FALSE,None,None
+FRENZY,secondary_weapon,450,low,10,"5,73",1,"0,45","0,45","1,5",13,78,26,22,63,21,17,FALSE,None,None
+GHOST,secondary_weapon,500,medium,"6,75","5,73","0,75","0,3","0,3","1,5",15,105,30,25,87,25,21,FALSE,None,silencer
+SHERIFF,secondary_weapon,800,high,4,"5,4",1,"0,25","0,25","2,25",6,159,55,46,145,50,42,FALSE,None,None
+STINGER,SMG,950,low,16,"5,73","0,75","0,65","0,5","2,25",20,67,27,22,62,25,21,TRUE,scope,None
+SPECTRE,SMG,1600,low,"13,33","5,73","0,75","0,4","0,25","2,25",30,78,26,22,66,22,18,TRUE,scope,silencer
+BUCKY,shotgun,850,low,"1,1","5,06",1,"2,6","2,6","2,5",5,40,20,17,26,13,11,TRUE,ar impact,None
+JUDGE,shotgun,1850,low,"3,5","5,06",1,"2,25","2,25","2,2",7,34,17,14,20,10,8,FALSE,None,None
+BULLDOG,rifle,2050,medium,"9,5","5,4",1,"0,3","0,3","2,5",24,115,35,29,115,35,29,TRUE,scope,None
+GUARDIAN,rifle,2250,high,"5,25","5,4",1,"0,1",0,"2,5",12,195,65,48,195,65,48,TRUE,scope,None
+PHANTOM,rifle,2900,medium,11,"5,4",1,"0,2","0,11","2,5",30,140,124,35,31,29,26,TRUE,scope,silencer
+VANDAL,rifle,2900,medium,"9,75","5,4",1,"0,25","0,157","2,5",25,160,40,34,160,40,34,TRUE,scope,None
+MARSHAL,sniper,950,medium,"1,5","5,4","1,25",1,0,"2,5",5,202,101,85,202,101,85,TRUE,scope,None
+OPERATOR,sniper,4700,high,"0,6","5,13","1,5",5,0,"3,7",5,255,255,150,150,120,120,TRUE,scope,double zoom
+ARES,machine_gun,1550,high,10,"5,13","1,25","0,8","0,67","3,25",50,72,67,30,28,25,23,TRUE,scope,increase in rate of fire
+ODIN,machine_gun,3200,high,12,"5,13","1,25","0,8","0,79",5,100,95,77,38,31,32,26,TRUE,scope,increase in rate of fire
