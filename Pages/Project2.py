@@ -83,6 +83,4 @@ class Project2:
                         break
                 self.cap.release()
                 cv2.destroyAllWindows()
-app = Project2()
-app.app()
 
